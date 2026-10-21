@@ -25,7 +25,6 @@ The guide covers common supply chain capabilities, manufacturing setups, work de
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Official and Additional Resources](#official-and-additional-resources)
 - [About CertsGate](#about-certsgate)
-- [Disclaimer](#disclaimer)
 
 ## Overview
 
